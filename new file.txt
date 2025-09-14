@@ -1,0 +1,13 @@
+this code's backend is 
+written by Rounak
+in this code Django is the liberary 
+thai is use in the codin with the python
+in this code 3 main file are exist 
+1:static file where is the txt fiule is present 
+is is accessible for every one
+2:templates is the main file where the code main part is present
+3:index.htm is present inside the templates file 
+that is use for the store the web page 
+and all function of the web pages 
+the full controle of web page is present in the 
+index.html web page
